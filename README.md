@@ -1,11 +1,10 @@
-<h1> Sayfa geçişli site  -Proje 2<h2>
+#   Web sayfası
+-HTML5 CSS3 kullanılarak geliştirilmiş bir veb sayfasıdır.
+-Web sayfasında home,about,services şeklinde üç katmanı vardır.
 
-<p> Menü bölümününü aktifleştirerek sayfa geçişleri olan bir site tasarımı.<p>
+#### Kullanılan teknolojiler
+> HTML5 - CSS3
 
-<h2> Kullanılan teknolojiler<p>
-
-HTML, CSS kullanıldı .
-
-<h2> Ekran Görüntüsü <h2>
+#### Önizleme
 
 ![](proje2.gif)
