@@ -5,6 +5,6 @@
 #### Kullanılan teknolojiler
 > HTML5 - CSS3
 
-#### Önizleme
+#### Preview
 
 ![](proje2.gif)
